@@ -9,25 +9,8 @@
 * MySQL
 * ...
 
-## پروژه‌ها
-* **[پروژه 1]** - یک اپلیکیشن تجارت الکترونیک قدرتمند با استفاده از لاراول و Vue.js
-  [Image of project]
-  * [Button: Demo] (لینک به دمو)
-  * [Button: Star on GitHub] (لینک به ریپازیتوری در GitHub)
-* **[پروژه 2]** - یک سیستم مدیریت محتوا سفارشی‌سازی شده
-  ...
 
 ## ارتباط با من
-* **ایمیل:** ali.kalbasi@example.com
-* **لینکدین:** [لینک به پروفایل لینکدین]
-* **GitHub:** [لینک به پروفایل گیت‌هاب]
-
-## آمار پروژه‌ها
-[Badge: تعداد ستاره‌ها] [Badge: آخرین کامیت]
-
-## دستورات مفید
-```bash
-# دستور نصب پروژه
-composer install
-# دستور اجرای مهاجرت‌ها
-php artisan migrate
+* **ایمیل:** alikalbasi1386@gmail.com
+* **لینکدین:** [https://www.linkedin.com/in/ali-kalbasi-402ab5295/]
+* **GitHub:** [https://github.com/alikalbasi]
