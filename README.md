@@ -13,11 +13,5 @@ Hi, I'm Ali Kalbasi, a passionate developer with a love for coding and open-sour
 - **Email:** alikalbasi1386@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ali-kalbasi-402ab5295/
 
-## GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikalbasi&show_icons=true&theme=radical)
-
-## Contributions
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikalbasi&layout=compact&theme=radical)
-
 
 Thank you for visiting my profile!
